@@ -1,0 +1,30 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ff8b8b;  
+    background-image: url('https://img.freepik.com/free-psd/3d-valentines-day-celebration-background_23-2150100000.jpg'); 
+    background-size: cover;  
+    background-position: center;
+}
+
+
+.header_text {
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); 
+}
+
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
